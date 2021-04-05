@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: leies-202/lei202-blog-2nd
+  repo: leies-202/lei-blog-3rd
 public_folder: "/public"
 media_folder: "static/images"
 collections:
