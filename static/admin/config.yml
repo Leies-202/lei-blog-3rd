@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: leies-202/lei202-blog-2nd
+public_folder: "/public"
+media_folder: "static/images"
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/post'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'タイトル', name: 'title', widget: 'string' }
+      - { label: '公開日', name: 'date', widget: 'datetime' }
+      - { label: 'スラッグ', name: 'slug', widget: 'string' }
+      - { label: "サムネイル画像", name: "image", widget: "image"}
+      - { label: '概要', name: 'description', widget: 'string' }
+      - { label: 'カテゴリー', name: 'categories', widget: 'string' }
+      - { label: '本文', name: 'body', widget: 'markdown' }
