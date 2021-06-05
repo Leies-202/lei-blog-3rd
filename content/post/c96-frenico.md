@@ -21,7 +21,7 @@ tags:
 
 {{< tweet 1118832095156064257 >}}
 
-[ツイート添付の記事が見れない時(ニコニコブロマガ終了後)](https://blog.lei202.com/imeges/screencapture-ch-nicovideo-jp-cardboard-channel-news-blomaga-ar1753735-1617534164918.png)
+[ツイート添付の記事が見れない時(ニコニコブロマガ終了後)](https://blog.lei202.com/images/screencapture-ch-nicovideo-jp-cardboard-channel-news-blomaga-ar1753735-1617534164918.png)
 
 一言参加も可能というのでここぞとばかりに投げつけてきました。
 
