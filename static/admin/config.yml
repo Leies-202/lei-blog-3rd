@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: leies-202/lei-blog-3rd
+  repo: Leies-202/lei-blog-3rd
 public_folder: "/public"
 media_folder: "static/images"
 collections:
@@ -8,6 +8,7 @@ collections:
     label: 'Post'
     folder: 'content/post'
     create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
     fields:
