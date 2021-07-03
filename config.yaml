@@ -1,4 +1,4 @@
-baseurl: https://blog.lei202.com
+baseurl: https://blog.lei202.com/
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 5
