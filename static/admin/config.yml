@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: Leies-202/lei-blog-3rd
+  branch: main
 public_folder: "/public"
 media_folder: "static/images"
 collections:
